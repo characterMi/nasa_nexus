@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+.app {
+    max-width: 1400px;
+    margin: auto;
+    position: relative;
+}
+
+.no-scroll {
+    overflow: hidden;
+}
+
+.loader {
+    width: 100vw;
+    height: 100vh;
+    transform: translate(-50%, -50%);
+    transition: 1s;
+}
+
+.bg-button_gradient {
+    background: linear-gradient(to right, #25aae1, #4481eb, #04befe, #3f86ed);
+}
+
+.btn:hover .btn-span {
+    background: transparent;
+}
+
+.started {
+    opacity: 0;
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	"Nexus" NASA 1960s super heavy rocket project
+* source:	https://sketchfab.com/3d-models/nexus-nasa-1960s-super-heavy-rocket-project-a5a60953a21b41f0943b5308d742752a
+* author:	SebastianSosnowski (https://sketchfab.com/SebastianSosnowski)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on ""Nexus" NASA 1960s super heavy rocket project" (https://sketchfab.com/3d-models/nexus-nasa-1960s-super-heavy-rocket-project-a5a60953a21b41f0943b5308d742752a) by SebastianSosnowski (https://sketchfab.com/SebastianSosnowski) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
