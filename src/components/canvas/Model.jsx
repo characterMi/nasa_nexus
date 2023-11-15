@@ -1,6 +1,6 @@
 import { useRef, useEffect, useState } from 'react';
 import gsap from 'gsap';
-import { OrbitControls, useGLTF } from '@react-three/drei';
+import { useGLTF } from '@react-three/drei';
 
 const Model = ({ start }) => {
     const rocket = useRef();
@@ -31,13 +31,6 @@ const Model = ({ start }) => {
 
     return (
         <mesh>
-            {start &&
-                <OrbitControls
-                    enableZoom={false}
-                    maxPolarAngle={Math.PI / 2}
-                    minPolarAngle={Math.PI / 2}
-                />
-            }
             <ambientLight intensity={1} />
             <primitive
                 ref={rocket}
