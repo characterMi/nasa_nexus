@@ -1,8 +1,47 @@
-# React + Vite
+# 🚀 NASA_Nexus
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### This website is an interactive website that displays a three-dimensional model of the Nexus rocket using the three.js technology. The website also provides comprehensive information about the Nexus rocket
 
-Currently, two official plugins are available:
+## Link 🔗 [https://charactermi.github.io/nasa_nexus](https://charactermi.github.io/nasa_nexus)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br />
+
+# Preview
+
+<img src="./preview_images/nasa-nexus_first.png" alt="first" />
+<img src="./preview_images/nasa-nexus_second.png" alt="second" />
+<img src="./preview_images/nasa-nexus_third.png" alt="third" />
+
+<br />
+
+# Mobile Responsive
+
+<img src="./preview_images/nasa-nexus_responsive.png" alt="responsive" />
+
+# Technologies
+
+<br />
+
+<ul>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-html.svg" alt="HTML" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-css.svg" alt="Css" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-js.svg" alt="Js" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-react-native.svg" width="46" height="46" alt="React" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/threeJs-icon.png" width="46" height="46" alt="three.js" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/tailwind.svg" width="46" height="46" alt="Tailwind" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/blob/main/technologies/gsap-icon.png?raw=true" width="46" height="46" alt="gsap" />
+    </li>
+</ul>
