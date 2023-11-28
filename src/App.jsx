@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import { CameraRig, Sky, Model, Nav, Details } from "./components"
+import { CameraRig, SkyContainer, Model, Nav, Details } from "./components"
 import { ScrollTrigger } from "gsap/ScrollTrigger"
 import gsap from "gsap"
 
@@ -23,9 +23,9 @@ function App() {
             <Model start={start} />
           </CameraRig>
         </section>
-        <section id="preview" className="preview-section -z-10 h-screen sticky w-full bg-black">
+        <section id="preview" className="preview-section -z-10 h-screen sticky w-full">
           <CameraRig start={start} setStart={setStart}>
-            <Sky start={start} />
+            <SkyContainer start={start} />
           </CameraRig>
         </section>
         <section id="about" className="about-section w-full relative">

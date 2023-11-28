@@ -10,8 +10,8 @@ const CameraRig = ({ start, setStart, children }) => {
             camera={{ position: [0, 3, 30], fov: 10 }}
             gl={{ preserveDrawingBuffer: true }}
         >
-            <pointLight intensity={200} color={"#ff6b00"} position={[-3, 1, -5]} />
-            <pointLight intensity={200} color={"#ff6b00"} position={[2, 1, -3]} />
+            <pointLight intensity={5} position={[-2, 0, 0]} />
+            <directionalLight intensity={10} color={"#ff6b00"} position={[200, 80, 5]} />
             <Suspense fallback={null}>
                 <group>
                     {children}

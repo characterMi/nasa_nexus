@@ -1,13 +1,12 @@
 import { Stars } from '@react-three/drei'
-import { Sun, Clouds } from '../'
-const Sky = ({ start }) => {
+import { Clouds } from '../'
+const SkyContainer = ({ start }) => {
     return (
         <mesh>
-            <Stars count={50000} />ّ
-            <Sun start={start} />
+            <Stars count={50000} />
             <Clouds start={start} />
         </mesh>
     )
 }
 
-export default Sky
+export default SkyContainer
