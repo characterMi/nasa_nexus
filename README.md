@@ -24,24 +24,24 @@
 
 <ul>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-html.svg" alt="HTML" />
+        <img src="https://github.com/characterMi/characterMi/raw/main/images/technologies/icons8-html.svg" alt="HTML" />
     </li>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-css.svg" alt="Css" />
+        <img src="https://github.com/characterMi/characterMi/raw/main/images/technologies/icons8-css.svg" alt="Css" />
     </li>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-js.svg" alt="Js" />
+        <img src="https://github.com/characterMi/characterMi/raw/main/images/technologies/icons8-js.svg" alt="Js" />
     </li>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-react-native.svg" width="46" height="46" alt="React" />
+        <img src="https://github.com/characterMi/characterMi/raw/main/images/technologies/icons8-react-native.svg" width="46" height="46" alt="React" />
     </li>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/threeJs-icon.png" width="46" height="46" alt="three.js" />
+        <img src="https://github.com/characterMi/characterMi/raw/main/images/technologies/threeJs-icon.png" width="46" height="46" alt="three.js" />
     </li>
     <li>
-        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/tailwind.svg" width="46" height="46" alt="Tailwind" />
+        <img src="https://github.com/characterMi/characterMi/raw/main/images/technologies/tailwind.svg" width="46" height="46" alt="Tailwind" />
     </li>
     <li>
-        <img src="https://github.com/characterMi/characterMi/blob/main/technologies/gsap-icon.png?raw=true" width="46" height="46" alt="gsap" />
+        <img src="https://github.com/characterMi/characterMi/blob/main/images/technologies/gsap-icon.png?raw=true" width="46" height="46" alt="gsap" />
     </li>
 </ul>
